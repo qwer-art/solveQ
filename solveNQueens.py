@@ -25,7 +25,7 @@ class Solution():
 
         helper([],[],[])
         return res
-
+print(n)
 
 a=Solution()
 a.solveNQueens(n)
