@@ -1,5 +1,6 @@
 from typing import List
 from copy import deepcopy
+a=5
 n=4
 
 from typing import List
@@ -26,7 +27,7 @@ class Solution():
         helper([],[],[])
         return res
 print(n)
-
+print(a)
 a=Solution()
 a.solveNQueens(n)
 
